@@ -21,7 +21,6 @@ and it should also work on windows.
 ## To Test 
 * Download the testing dataset and have it in the 'dataset/test/' folder 
 * Modify the 'test_folder' in the `main.py` to the testing results saving folder you want
-* Modify the 'sal_mode' to select one testing dataset (NJU2K, NLPR, STERE, RGBD135, LFSD or SIP)
 * Set 'mode' to 'test'
 * Run `main.py`
 
